@@ -80,7 +80,7 @@ $ python3 -m app
 
 * **Other quick methods.**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabha0coder/tindex/tree/master)    [![Run on Repl.it](https://repl.it/badge/github/prabha0coder/tindex)](https://repl.it/github/prabha0coder/tindex)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabha0coder/tindex/tree/main)    [![Run on Repl.it](https://repl.it/badge/github/prabha0coder/tindex)](https://repl.it/github/prabha0coder/tindex)
 
 
 ## Contributions
